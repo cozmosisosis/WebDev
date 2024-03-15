@@ -1,1 +1,0 @@
-<p>This dir is for the development of my web application for a grocery list</p>
